@@ -1,4 +1,4 @@
-def add(a,b):
-    print "sum of a ,b is {0}". format(a+b)
+def add(a,b,c:
+    print "sum of a ,b,c is {0}". format(a+b+c)
 
 
